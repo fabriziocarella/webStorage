@@ -58,4 +58,7 @@ document.querySelector("button[name='borraruser']").addEventListener("click", (e
         }
     }
 })
-//Aqui tenemos que usar la variabla de usarios de manera dinamica
+//Aqui tenemos que usar la variable de usarios de manera dinamica
+
+
+//MIGUEL TAFUR
