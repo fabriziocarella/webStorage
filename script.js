@@ -58,3 +58,4 @@ document.querySelector("button[name='borraruser']").addEventListener("click", (e
         }
     }
 })
+//Aqui tenemos que usar la variabla de usarios de manera dinamica
